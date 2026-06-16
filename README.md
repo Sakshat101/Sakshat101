@@ -22,7 +22,7 @@
 </p>
 
 <br/>
-##  About Me
+## About Me
 
 ```python
 class Sakshat:
