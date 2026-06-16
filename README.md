@@ -22,7 +22,7 @@
 </p>
 
 <br/>
-## 🚀 **About Me**
+##  About Me
 
 ```python
 class Sakshat:
@@ -51,7 +51,6 @@ class Sakshat:
     def life_goal(self):
         return "Build technology that creates real impact and real profit."
 ```
-
 <br/>
 
 ---
