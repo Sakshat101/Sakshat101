@@ -1,0 +1,16 @@
+name: Update Chess Board
+
+on:
+  issue_comment:
+    types: [created]
+  workflow_dispatch:
+
+jobs:
+  update-chess:
+    runs-on: ubuntu-latest
+    if: startsWith(github.event.comment.body, 'chess/')
+    steps:
+      - uses: actions/checkout@v3
+      - uses: marcizhu/readme-chess@master
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
