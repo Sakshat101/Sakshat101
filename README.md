@@ -1,28 +1,31 @@
-<!-- Custom Banner -->
-<div align="center">
-  <img src="./banner.png" width="100%" alt="Sakshat101 Banner"/>
-</div>
+<!-- ========================= BANNER ========================= -->
 
-<br/>
+<p align="center">
+  <img src="./banner.png" width="100%" alt="Sakshat101 Banner">
+</p>
 
-<!-- Typing Animation -->
-<div align="center">
+<!-- ====================== TYPING TEXT ======================= -->
+
+<p align="center">
   <a href="https://git.io/typing-svg">
     <img
       src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=F7C600&center=true&vCenter=true&repeat=true&width=500&lines=We+Ball+%21+Bet"
       alt="Typing SVG"
     />
   </a>
-</div>
-
-<br/>
-
-<p align="center">
-  AI Automation • Full Stack Development • Machine Learning • Building Profitable AI Systems
 </p>
 
-<br/>
-## About Me
+<!-- ====================== TAGLINE ======================= -->
+
+<p align="center">
+  <b>
+    AI Automation • Full Stack Development • Machine Learning • Building Profitable AI Systems
+  </b>
+</p>
+
+---
+
+# 🚀 About Me
 
 ```python
 class Sakshat:
@@ -36,14 +39,23 @@ class Sakshat:
             "Workflow Automation",
             "Full-Stack Development",
             "Machine Learning",
-            "Business Automation"
+            "Business Automation",
         ]
 
         self.currently_building = [
             "Production-ready AI Systems",
             "Automation Workflows",
             "Lead Generation Engines",
-            "Real-world SaaS Products"
+            "Real-world SaaS Products",
+        ]
+
+        self.ask_me_about = [
+            "AI Agents",
+            "LLMs",
+            "RAG",
+            "Automation",
+            "Full Stack",
+            "Machine Learning",
         ]
 
         self.motto = "We Ball ! Bet 🚀"
@@ -51,6 +63,7 @@ class Sakshat:
     def life_goal(self):
         return "Build technology that creates real impact and real profit."
 ```
+
 <br/>
 
 ---
