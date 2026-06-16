@@ -42,7 +42,7 @@ sakshat = {
 
 | 📄 Contract IQ | 📚 Ask My Docs |
 |:---:|:---:|
-| AI-powered contract analysis and intelligence tool | RAG-based document Q&A — chat with your PDFs & docs |
+| AI-powered contract analysis and intelligence tool | RAG-based document Q&amp;A — chat with your PDFs &amp; docs |
 | [![Repo](https://img.shields.io/badge/View_Repo-bb9af7?style=for-the-badge&logo=github&logoColor=1a1b27)](https://github.com/Sakshat101/Contract-IQ) | [![Repo](https://img.shields.io/badge/View_Repo-bb9af7?style=for-the-badge&logo=github&logoColor=1a1b27)](https://github.com/Sakshat101/ask-my-docs) |
 
 </div>
