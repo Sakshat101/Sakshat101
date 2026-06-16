@@ -17,15 +17,13 @@
 
 <br/>
 
-<h1 align="center">Hi 👋 I'm Sakshat</h1>
-
 <p align="center">
   AI Automation • Full Stack Development • Machine Learning • Building Profitable AI Systems
 </p>
 
 <br/>
 <!-- About Section -->
-## 🧠 About Me
+ ## **About Me**
 
 ```python
 sakshat = {
@@ -43,7 +41,7 @@ sakshat = {
 
 ---
 
-## 🚀 Featured Projects
+## **Featured Projects**
 
 <div align="center">
 
