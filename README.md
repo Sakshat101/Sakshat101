@@ -154,7 +154,7 @@ class Sakshat:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1b27?style=for-the-badge&logo=linkedin&logoColor=7aa2f7)](https://linkedin.com/in/sakshat101)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1b27?style=for-the-badge&logo=linkedin&logoColor=7aa2f7)](https://linkedin.com/in/sakshat-keote/)
 [![GitHub](https://img.shields.io/badge/GitHub-1a1b27?style=for-the-badge&logo=github&logoColor=c0caf5)](https://github.com/Sakshat101)
 [![Email](https://img.shields.io/badge/Email-1a1b27?style=for-the-badge&logo=gmail&logoColor=f7768e)](mailto:your@email.com)
 
