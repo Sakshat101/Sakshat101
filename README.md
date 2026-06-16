@@ -22,19 +22,34 @@
 </p>
 
 <br/>
-<!-- About Section -->
- ## **About Me**
+## 🚀 **About Me**
 
 ```python
-sakshat = {
-    "username":   "Sakshat101",
-    "role":       "Data & ML Engineer",
-    "location":   "India 🇮🇳",
-    "passion":    "Turning raw data into intelligent systems",
-    "currently":  "Building AI-powered apps & sharpening ML skills",
-    "ask_me_about": ["Machine Learning", "Deep Learning", "NLP", "Data Science"],
-    "fun_fact":   "I trained a model to detect pneumonia. My doctor is worried. 😄"
-}
+class Sakshat:
+    def __init__(self):
+        self.username = "Sakshat101"
+        self.role = "AI Engineer & Full-Stack Builder"
+        self.location = "India 🇮🇳"
+
+        self.focus = [
+            "AI Agents",
+            "Workflow Automation",
+            "Full-Stack Development",
+            "Machine Learning",
+            "Business Automation"
+        ]
+
+        self.currently_building = [
+            "Production-ready AI Systems",
+            "Automation Workflows",
+            "Lead Generation Engines",
+            "Real-world SaaS Products"
+        ]
+
+        self.motto = "We Ball ! Bet 🚀"
+
+    def life_goal(self):
+        return "Build technology that creates real impact and real profit."
 ```
 
 <br/>
