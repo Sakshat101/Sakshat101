@@ -1,14 +1,13 @@
-<!-- Header -->
+<!-- Custom Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:414868,100:7aa2f7&height=200&section=header&text=Hey,%20I'm%20Sakshat%20👋&fontSize=48&fontColor=c0caf5&fontAlignY=38&desc=Data%20%26%20ML%20Engineer%20•%20AI%20Builder%20•%20Problem%20Solver&descAlignY=58&descSize=18&descColor=9aa5ce" width="100%" alt="header"/>
+  <img src="./banner.png" width="100%" alt="Sakshat101 Banner"/>
 </div>
 
-<!-- Typing SVG -->
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Building+AI+that+actually+matters.;ML+Engineer+%7C+Data+Nerd+%7C+AI+Tinkerer;Pneumonia+detection+to+stock+prediction...;...one+model+at+a+time+%F0%9F%A4%96" alt="Typing SVG" />
-  </a>
-</div>
+<h1 align="center">Hi 👋 I'm Sakshat</h1>
+
+<p align="center">
+AI Automation • Full Stack Development • Machine Learning • Building Profitable AI Systems
+</p>
 
 <br/>
 
