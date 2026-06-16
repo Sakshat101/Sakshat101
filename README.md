@@ -25,7 +25,7 @@
 
 ---
 
-# 🚀 About Me
+#  About Me
 
 ```python
 class Sakshat:
@@ -88,7 +88,7 @@ class Sakshat:
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <div align="center">
 
@@ -123,7 +123,7 @@ class Sakshat:
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sakshat101&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5&rank_icon=github" height="170" alt="GitHub Stats"/>
@@ -138,7 +138,7 @@ class Sakshat:
 
 ---
 
-## 😄 Dev Joke of the Day
+##  Dev Joke 
 
 <div align="center">
   <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&qColor=%237aa2f7&aColor=%23c0caf5&bgColor=%231a1b27&borderColor=%23414868&codeColor=%23bb9af7" alt="Dev Joke" />
