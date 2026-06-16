@@ -19,7 +19,7 @@
 sakshat = {
     "username":   "Sakshat101",
     "role":       "Data & ML Engineer",
-    "location":   "Mumbai, India 🇮🇳",
+    "location":   "India 🇮🇳",
     "passion":    "Turning raw data into intelligent systems",
     "currently":  "Building AI-powered apps & sharpening ML skills",
     "ask_me_about": ["Machine Learning", "Deep Learning", "NLP", "Data Science"],
