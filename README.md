@@ -151,20 +151,11 @@ class Sakshat:
 <br/>
 
 ---
----
+## 🟡 Pac-Man Contributions
 
-## ♟️ Play Chess With Me!
-
-<div align="center">
-
-> 🎮 Challenge me to a game of chess! Make your move by clicking a piece below.
-
-<!-- BEGIN CHESS BOARD -->
-<!-- END CHESS BOARD -->
-
-[![New game](https://img.shields.io/badge/Chess-New_Game-7aa2f7?style=for-the-badge&amp;logo=lichess&amp;logoColor=1a1b27)](https://github.com/Sakshat101/Sakshat101/issues/new?title=chess%2Fnew&amp;body=Start+a+new+chess+game)
-
-> ♟️ Make a move by [opening an issue](https://github.com/Sakshat101/Sakshat101/issues) with the title `chess/move [from][to]` — e.g. `chess/move e2e4`
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sakshat101/Sakshat101/output/pacman-contribution-graph-dark.svg">
+</p>
 
 </div>
 
